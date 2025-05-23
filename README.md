@@ -1,5 +1,5 @@
 # OMTSeg: Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model
-[![Paper](https://img.shields.io/badge/Paper-ICASSP25-blue)](https://ieeexplore.ieee.org/abstract/document/10647459) 
+[![Paper](https://img.shields.io/badge/Paper-ICIP24-blue)](https://ieeexplore.ieee.org/abstract/document/10647459) 
 
 ---
 
